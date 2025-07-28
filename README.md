@@ -1,7 +1,9 @@
 FlipMart Sales Analysis Dashboard – Power BI Project
+
 This project presents an interactive and insight-rich Power BI dashboard built using FlipMart’s retail sales dataset. The goal is to uncover meaningful patterns in sales, profit, product performance, and regional trends to support smart decision-making in the e-commerce space.
 
 Project Overview:
+
 --> The FlipMart dataset contains detailed sales records including:
 
 --> Transaction dates and product info
@@ -16,6 +18,7 @@ Project Overview:
 
 
 Dashboard Highlights:
+
 --> Total Sales, Profit, Quantity, and Transactions displayed as KPIs.
 
 --> Sales by Shipping Mode: Compared performance across Standard, First, Second Class & Same Day delivery.
