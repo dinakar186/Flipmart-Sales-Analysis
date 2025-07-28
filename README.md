@@ -1,16 +1,19 @@
-ABOUT DATASET :
+FlipMart Sales Analysis Dashboard – Power BI Project
+This project presents an interactive and insight-rich Power BI dashboard built using FlipMart’s retail sales dataset. The goal is to uncover meaningful patterns in sales, profit, product performance, and regional trends to support smart decision-making in the e-commerce space.
 
-This dataset provides detailed sales data from FlipMart, including transaction details, product categories, regional sales performance, and time-based trends.
+Project Overview:
+--> The FlipMart dataset contains detailed sales records including:
+--> Transaction dates and product info
+--> Customer segments and sales regions
+--> Shipping modes and quantities
+--> Sales and profit metrics
+--> Using this data, the dashboard explores business performance from multiple angles — time, region, shipping, category, and customer behavior.
 
-Key Features :
-
-Columns : Product names, categories, sales regions, sales amounts, and timestamps.
-Applications : Useful for sales forecasting, e-commerce analytics, and customer behavior modeling.
-Data Source : Inspired by retail analytics for educational and project-based use.
-
-Perfect for learners, researchers, and professionals exploring trends in retail sales and developing predictive models for e-commerce
-
-ABOUT DASHBOARD :
-
-This Power BI dashboard analyzes FlipMart's sales data to uncover regional performance trends, product category insights, and time-based and transport based sales patterns. 
-The visualizations are designed to enable quick decision-making and identify growth opportunities in e-commerce.
+Dashboard Highlights:
+--> Total Sales, Profit, Quantity, and Transactions displayed as KPIs.
+--> Sales by Shipping Mode: Compared performance across Standard, First, Second Class & Same Day delivery.
+--> Profit by Segment: Monthly trends for Consumer, Corporate, and Home Office customers.
+--> Top 10 Profit by Country: Identified highest-grossing regions including the U.S., China, and India.
+--> Top-Selling Sub-Categories: Phones, Chairs, and Bookcases leading the charts.
+--> Profit by Category: Clear pie-chart view of profit split across Technology, Office Supplies, and Furniture.
+--> Slicers for Order Date & Shipping Mode to enable dynamic filtering and deep-dives.
